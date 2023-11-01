@@ -3,5 +3,5 @@ package github2;
 
 
 public class Perro {
-    String animal = "pepe";
+    String animal = "pato";
 }
